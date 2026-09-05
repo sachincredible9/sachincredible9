@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Kumar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
 <h3 align="center">Technical Lead & Systems Architect | AI / GenAI • LLMs • RAG | iOS & Distributed Systems | Cloud & ML</h3>
 
 <p align="center">
