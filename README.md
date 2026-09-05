@@ -47,6 +47,17 @@
 
 ---
 
+## 🧭 Purpose & Core Philosophy
+
+| Dimension | Focus & Driving Force |
+| :--- | :--- |
+| ❤️ **What I Love** | Building transformative software, tackling deep technical challenges, advancing AI systems, and turning ambitious concepts into enduring products. |
+| 🏆 **What I Excel At** | Resilient system architecture, low-level C/C++ engineering, distributed cloud systems, and seamlessly bridging mission-critical legacy engines with modern AI. |
+| 💼 **Market Value** | Enterprise AI transformation, cloud modernization, Agentic AI orchestration (LangGraph/CrewAI), production RAG pipelines, and technical leadership. |
+| 🌍 **Mission & Impact** | Empowering organizations to achieve exponential productivity through AI, and leading engineering teams to turn vision into scalable reality. |
+
+---
+
 ## 🏛️ What I Architect & Deliver
 
 - 🤖 **Enterprise Agentic AI & RAG Workflows**: Autonomous multi-agent orchestration (LangGraph, CrewAI, AutoGen), production multi-tenant RAG systems with pgvector, dynamic parameter simulators, semantic caching, and LLM evaluation guardrails.
