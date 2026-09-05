@@ -39,8 +39,7 @@
 > *"A seasoned systems architect who translates cutting-edge AI breakthroughs into resilient, cost-governed enterprise software."*
 
 - 🎯 **Target Roles**: **Enterprise AI & Cloud Solutions Architect** • **Principal / Staff AI Engineer** • **Director of AI & Systems Engineering**
-- 📍 **Location**: Toronto, ON, Canada *(Authorized to work in Canada)*
-- 🛂 **US Work Authorization**: **Previously H-1B Approved** • Eligible for immediate **Cap-Exempt H-1B Transfer** *(No lottery required for US roles)*
+- 📍 **Location**: Toronto, ON, Canada
 - 💡 **Core Architectural Value**:
   - **16+ Years Enterprise Engineering**: Led mission-critical systems for tier-1 banks (SBI, Wells Fargo, Standard Chartered) and enterprise software providers.
   - **Modern AI & Cloud Mastery**: Post Graduate Program in AI/ML from **UT Austin**, triple AWS/GCP certified, production Agentic AI (LangGraph, CrewAI) and RAG pipelines.
