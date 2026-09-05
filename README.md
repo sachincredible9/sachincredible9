@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Sharma</h1>
-<h3 align="center">Technical Lead & Systems Architect | Agentic AI • LLMs • RAG | Python • Node.js • TypeScript • JavaScript • C/C++ | Cloud & Mobile</h3>
+<h3 align="center">Technical Lead & Systems Architect | Agentic AI • LLMs • RAG | Python • Node.js • TypeScript • JavaScript • C/C++</h3>
+<p align="center">
+  <b>🎓 Graduate — Post Graduate Program (PGP) in AI & Machine Learning, University of Texas at Austin</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-s-67800118/" target="_blank">
@@ -14,29 +17,49 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/UT%20Austin-PGP%20in%20AI%2FML%20Graduate-BF5700?style=flat-square&logo=academia&logoColor=white" alt="UT Austin PGP AI/ML" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Associate Cloud Engineer" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachincredible9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🏛️ **Technical Lead & Systems Architect** with 16+ years of software engineering expertise spanning **AI/GenAI, Distributed Systems, Cloud Backends, and High-Scale Mobile Platforms**.
+- 🎓 **Graduate, Post Graduate Program (PGP) in Artificial Intelligence & Machine Learning** from the **University of Texas at Austin** — specialized in Deep Learning, Generative AI, NLP, Vector Embeddings, and Agentic Architectures.
+- 🏛️ **Technical Lead & Systems Architect** with 16+ years of software engineering leadership spanning **AI/GenAI, Distributed Systems, Cloud Backends, and High-Scale Mobile Platforms**.
 - 🤖 Architecting **Agentic AI workflows, Multi-Agent Systems, and Production RAG Pipelines** utilizing **LangChain, LangGraph, ReAct patterns, and Google Gemini / OpenAI models**.
-- 💻 Strong multi-language polyglot: Production builds across **Python, Node.js, TypeScript, JavaScript, C/C++, Objective-C, Swift, and Dart**.
-- 🎓 Completed **Post Graduate Program (PGP) in Artificial Intelligence & Machine Learning** from the **University of Texas at Austin** (2026).
+- 💻 Multi-language polyglot: Production builds across **Python, Node.js, TypeScript, JavaScript, C/C++, Objective-C, Swift, and Dart**.
 - ☁️ **Triple Cloud & AI Certified**:
   - 🏅 **AWS Certified AI Practitioner**
   - 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
   - 🏅 **Google Cloud Certified Associate Cloud Engineer**
-- 📱 Proven leadership authoring HLD/LLD architectures, guiding cross-functional teams, and deploying mission-critical platforms for Fortune 500 & tier-1 financial enterprises.
+- 📱 Proven track record authoring HLD/LLD architectures, leading cross-functional teams, and delivering mission-critical applications for global financial institutions and enterprises.
+
+---
+
+## 🎓 Education & Professional Certifications
+
+| Credential / Program | Institution / Provider | Specialization / Status |
+| :--- | :--- | :--- |
+| 🎓 **PGP in Artificial Intelligence & Machine Learning** | **The University of Texas at Austin** (McCombs School of Business) | **Completed** • Deep Learning, GenAI, NLP, Computer Vision & Agentic AI |
+| 🏅 **AWS Certified AI Practitioner** | Amazon Web Services (AWS) | Verified Credential |
+| 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services (AWS) | Verified Credential |
+| 🏅 **Google Cloud Certified Associate Cloud Engineer** | Google Cloud Platform (GCP) | Verified Credential |
+| 🎓 **Post Graduate Diploma in Advanced Computing (PGDAC)** | C-DAC Sunbeam Institute | Advanced Computing & Systems Engineering |
+| 🎓 **Bachelor of Engineering (B.E.) in Electronics** | University of Pune | Electronics & Embedded Systems |
 
 ---
 
 ## 💡 What I Build & Architect
 - 🤖 **Agentic AI & RAG Ecosystems**: Multi-agent task orchestration (LangGraph, CrewAI), interactive multi-tenant RAG playgrounds, parameter simulators, and semantic vector retrieval (FAISS, Chroma).
-- 🌐 **Modern Full-Stack & APIs**: High-throughput asynchronous RESTful microservices with **FastAPI, Node.js, and Express**, connected to PostgreSQL and SQLite databases.
-- 📱 **Enterprise Mobile Solutions**: Production iOS & cross-platform applications (Swift, Objective-C, TypeScript, Flutter) featuring on-device machine learning (MLKit) and native C++ bridges.
-- ⚙️ **Enterprise Systems & DevOps**: Straight-Through Processing (STP) engines with 90%+ automation, containerized deployments with Docker, and automated CI/CD with GitHub Actions.
+- 🌐 **Modern Full-Stack & Cloud APIs**: High-throughput asynchronous microservices with **FastAPI, Node.js, and Express**, connected to PostgreSQL and SQLite databases.
+- 📱 **Enterprise Mobile & Edge AI**: Production iOS & cross-platform applications (Swift, Objective-C, TypeScript, Flutter) featuring on-device machine learning (MLKit, Gemini Nano) and native C++ bridges.
+- ⚙️ **Enterprise Engines & DevOps**: Straight-Through Processing (STP) engines with 90%+ automation, containerized deployments with Docker, and automated CI/CD with GitHub Actions.
 
 ---
 
@@ -132,17 +155,6 @@
 - 🏛️ **Enterprise Solutions Architecture & Systems Leadership**
 - 🤝 **High-impact AI/GenAI and Full-Stack collaborations**
 - 💡 **Strategic tech advisory on AI modernization**
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuing Organization | Status |
-| :--- | :--- | :--- |
-| **AWS Certified AI Practitioner** | Amazon Web Services | Verified |
-| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | Verified |
-| **Google Cloud Certified Associate Cloud Engineer** | Google Cloud | Verified |
-| **Post Graduate Program in AI & Machine Learning** | UT Austin (McCombs School of Business) | 2026 |
 
 ---
 
