@@ -29,6 +29,15 @@
 
 ---
 
+## 💼 Quick Reference for Recruiters & Hiring Managers
+
+- 🎯 **Target Roles**: Staff / Principal AI Engineer • AI & Systems Solutions Architect • Technical Lead (AI / Mobile / Distributed Systems)
+- 📍 **Location**: Toronto, ON, Canada *(Authorized to work in Canada)*
+- 🛂 **US Work Authorization**: **Previously H-1B Approved** • Eligible for immediate **Cap-Exempt H-1B Transfer** (No lottery required for US roles)
+- ⚡ **Value Proposition**: 16+ years of production system reliability (C/C++, iOS, Distributed Architecture) + Cutting-Edge AI & RAG expertise (UT Austin PGP AI/ML, Gemini, LangGraph, pgvector).
+
+---
+
 ## 🚀 About Me
 - 🎓 **Graduate, Post Graduate Program (PGP) in Artificial Intelligence & Machine Learning** from the **University of Texas at Austin** — specialized in Deep Learning, Generative AI, NLP, Vector Embeddings, and Agentic Architectures.
 - 🏛️ **Technical Lead & Systems Architect** with 16+ years of software engineering leadership spanning **AI/GenAI, Distributed Systems, Cloud Backends, and High-Scale Mobile Platforms**.
@@ -55,8 +64,28 @@
 
 ---
 
+## 📂 Featured Public Applications & Systems
+
+### 1. 🧠 [RAG-Parameter-Explorer (DocMind Studio)](https://github.com/sachincredible9/RAG-Parameter-Explorer)
+> **Enterprise Multi-Tenant RAG Playground & LLM Parameter Simulator**  
+> An interactive, 3-tier testing platform built with **React 18, FastAPI, PostgreSQL (`pgvector`), and Docker**. Features side-by-side A/B evaluation for chunk sizes, overlap, temperature, top-p, and dynamic system personas with real-time latency and token telemetry.
+
+### 2. 🛒 [SuperKart: Sales Revenue Forecasting](https://github.com/sachincredible9/superkartsales)
+> **End-to-End Retail Intelligence & Containerized Deployment**  
+> Production Machine Learning regression solution predicting quarterly outlet sales revenue across supermarkets. Built with a **Flask REST API backend**, an interactive **Streamlit frontend dashboard**, containerized with **Docker**, and deployed on **Hugging Face Spaces**.
+
+### 3. 🏥 [NLP-RAG-Medical-Assistant](https://github.com/sachincredible9/NLP-RAG-Medical-Assistant)
+> **Context-Aware Healthcare Q&A and RAG Pipeline**  
+> Semantic retrieval platform combining vector search (FAISS) and domain-specific clinical prompt routing for context-aware medical inquiries.
+
+### 4. ⚡ [fast-api-app](https://github.com/sachincredible9/fast-api-app)
+> **High-Throughput Asynchronous Microservice Architecture**  
+> Scalable, asynchronous backend service built with **FastAPI**, strict Pydantic validation, dependency injection, async database connectivity, and Docker containerization.
+
+---
+
 ## 💡 What I Build & Architect
-- 🤖 **Agentic AI & RAG Ecosystems**: Multi-agent task orchestration (LangGraph, CrewAI), interactive multi-tenant RAG playgrounds, parameter simulators, and semantic vector retrieval (FAISS, Chroma).
+- 🤖 **Agentic AI & RAG Ecosystems**: Multi-agent task orchestration (LangGraph, CrewAI), interactive multi-tenant RAG playgrounds, parameter simulators, and semantic vector retrieval (FAISS, Chroma, pgvector).
 - 🌐 **Modern Full-Stack & Cloud APIs**: High-throughput asynchronous microservices with **FastAPI, Node.js, and Express**, connected to PostgreSQL and SQLite databases.
 - 📱 **Enterprise Mobile & Edge AI**: Production iOS & cross-platform applications (Swift, Objective-C, TypeScript, Flutter) featuring on-device machine learning (MLKit, Gemini Nano) and native C++ bridges.
 - ⚙️ **Enterprise Engines & DevOps**: Straight-Through Processing (STP) engines with 90%+ automation, containerized deployments with Docker, and automated CI/CD with GitHub Actions.
@@ -125,13 +154,14 @@
 ## 🚀 Project Experience
 
 ### 🤖 AI/ML & Agentic Systems
-- **Multi-Tenant RAG Simulator**: Built an end-to-end playground in JavaScript/Python for LLM parameter testing, dynamic personas, and real-time chunking analysis.
+- **Multi-Tenant RAG Simulator ([RAG-Parameter-Explorer](https://github.com/sachincredible9/RAG-Parameter-Explorer))**: Built an end-to-end playground in JavaScript/Python for LLM parameter testing, dynamic personas, and real-time chunking analysis.
+- **Retail Sales Forecasting & Deployment ([superkartsales](https://github.com/sachincredible9/superkartsales))**: Engineered an end-to-end ML regression pipeline for supermarket revenue forecasting, containerized with Docker and served via Flask & Streamlit on Hugging Face Spaces.
 - **Agentic Workflows**: Implementing agentic architectures using LangGraph and ReAct patterns for autonomous reasoning, tool execution, and self-correcting agents.
-- **Medical Q&A Domain Assistant**: Engineered context-aware semantic search with FAISS vector indexing and specialized medical prompt routing.
+- **Medical Q&A Domain Assistant ([NLP-RAG-Medical-Assistant](https://github.com/sachincredible9/NLP-RAG-Medical-Assistant))**: Engineered context-aware semantic search with FAISS vector indexing and specialized medical prompt routing.
 - **On-Device Edge ML**: Integrated Google Gemini API and MLKit for edge intelligence, image recognition, and natural language understanding.
 
 ### ⚙️ Backend & Full-Stack Engineering
-- **Asynchronous Microservices**: High-performance REST APIs using FastAPI and Node.js with strict validation and automated OpenAPI docs.
+- **Asynchronous Microservices ([fast-api-app](https://github.com/sachincredible9/fast-api-app))**: High-performance REST APIs using FastAPI and Node.js with strict validation and automated OpenAPI docs.
 - **Enterprise Integrations**: Automated Straight-Through Processing (STP) repair with 90%+ automation for tier-1 global banks.
 - **Cloud Infrastructure**: Scalable containerized microservices deployed across AWS (EC2, S3, Lambda) and GCP with automated CI/CD.
 
