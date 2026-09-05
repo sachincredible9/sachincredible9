@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sachin Sharma</h1>
-<h3 align="center">Technical Lead & Systems Architect | AI / GenAI • LLMs • RAG | iOS & Distributed Systems | Cloud & ML</h3>
+<h1 align="center">Hi 👋, I'm Sachin Kumar Sharma</h1>
+<h3 align="center">Technical Lead & Systems Architect | Agentic AI • LLMs • RAG | Python • Node.js • TypeScript • JavaScript • C/C++ | Cloud & Mobile</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-s-67800118/" target="_blank">
@@ -20,104 +20,118 @@
 ---
 
 ## 🚀 About Me
-- 🏛️ **Technical Lead & Architect** with 16+ years of software engineering expertise across **iOS, C/C++, Distributed Systems, and Enterprise Platforms**
-- 🤖 Specializing in **Generative AI, Agentic Workflows, LLM Integration, and Production RAG Pipelines** (LangChain, LangGraph, Google Gemini API)
-- 🎓 Completed **Post Graduate Program (PGP) in Artificial Intelligence & Machine Learning** from **UT Austin** (2026)
+- 🏛️ **Technical Lead & Systems Architect** with 16+ years of software engineering expertise spanning **AI/GenAI, Distributed Systems, Cloud Backends, and High-Scale Mobile Platforms**.
+- 🤖 Architecting **Agentic AI workflows, Multi-Agent Systems, and Production RAG Pipelines** utilizing **LangChain, LangGraph, ReAct patterns, and Google Gemini / OpenAI models**.
+- 💻 Strong multi-language polyglot: Production builds across **Python, Node.js, TypeScript, JavaScript, C/C++, Objective-C, Swift, and Dart**.
+- 🎓 Completed **Post Graduate Program (PGP) in Artificial Intelligence & Machine Learning** from the **University of Texas at Austin** (2026).
 - ☁️ **Triple Cloud & AI Certified**:
   - 🏅 **AWS Certified AI Practitioner**
   - 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
   - 🏅 **Google Cloud Certified Associate Cloud Engineer**
-- 📱 Proven track record leading cross-functional engineering teams, authoring HLD/LLD specifications, and delivering mission-critical applications for global banking and enterprise clients
-- ⚡ Deep passion for bridging low-level system performance (C/C++, native engines) with cutting-edge AI architectures
+- 📱 Proven leadership authoring HLD/LLD architectures, guiding cross-functional teams, and deploying mission-critical platforms for Fortune 500 & tier-1 financial enterprises.
 
 ---
 
-## What I Build
-- 🧠 **Enterprise RAG & AI Applications**: Multi-tenant RAG architectures, LLM parameter simulators, semantic vector search, and agentic workflows
-- 📱 **Enterprise Mobile Solutions**: High-scale iOS and cross-platform mobile apps (Swift, Objective-C, Flutter) integrated with MLKit and on-device machine learning
-- ⚙️ **Cloud & Distributed Backends**: High-throughput REST APIs with FastAPI/Flask connected to PostgreSQL/SQL databases, containerized with Docker and deployed to AWS/GCP
-- 🏦 **Mission-Critical Systems**: Straight-Through Processing (STP) pipelines with 90%+ automation, Anti-Money Laundering (AML) engines, and JNI/C++ publishing engines
+## 💡 What I Build & Architect
+- 🤖 **Agentic AI & RAG Ecosystems**: Multi-agent task orchestration (LangGraph, CrewAI), interactive multi-tenant RAG playgrounds, parameter simulators, and semantic vector retrieval (FAISS, Chroma).
+- 🌐 **Modern Full-Stack & APIs**: High-throughput asynchronous RESTful microservices with **FastAPI, Node.js, and Express**, connected to PostgreSQL and SQLite databases.
+- 📱 **Enterprise Mobile Solutions**: Production iOS & cross-platform applications (Swift, Objective-C, TypeScript, Flutter) featuring on-device machine learning (MLKit) and native C++ bridges.
+- ⚙️ **Enterprise Systems & DevOps**: Straight-Through Processing (STP) engines with 90%+ automation, containerized deployments with Docker, and automated CI/CD with GitHub Actions.
 
 ---
 
 ## 🛠 Technical Skills
 
-### Frontend & Mobile
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+### 🤖 Agentic AI, GenAI & Machine Learning
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7B2CBF?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-00599C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💻 Programming Languages & Web Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Cloud
+### ⚙️ Backend, Cloud & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Data, AI/ML & Core Systems
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases & Tooling
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachincredible9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sachincredible9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 Live Repository Analytics & Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachincredible9&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachincredible9&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
 ---
 
 ## 🚀 Project Experience
 
-### AI/ML & GenAI
-- **Enterprise RAG Systems**: Architected multi-tenant RAG playgrounds with dynamic user personas, customizable chunking, and side-by-side LLM response comparison
-- **Healthcare Document Intelligence**: Built context-aware medical assistant using FAISS vector search and NLP prompting for specialized Q&A
-- **Predictive ML Pipelines**: Developed end-to-end customer churn prediction pipelines with exploratory data analysis, feature engineering, and model evaluation
-- **On-Device AI Integration**: Integrated Google Gemini API and MLKit for intelligent content generation and image recognition on mobile devices
+### 🤖 AI/ML & Agentic Systems
+- **Multi-Tenant RAG Simulator**: Built an end-to-end playground in JavaScript/Python for LLM parameter testing, dynamic personas, and real-time chunking analysis.
+- **Agentic Workflows**: Implementing agentic architectures using LangGraph and ReAct patterns for autonomous reasoning, tool execution, and self-correcting agents.
+- **Medical Q&A Domain Assistant**: Engineered context-aware semantic search with FAISS vector indexing and specialized medical prompt routing.
+- **On-Device Edge ML**: Integrated Google Gemini API and MLKit for edge intelligence, image recognition, and natural language understanding.
 
-### Backend Engineering
-- **RESTful Microservices**: Asynchronous API development using FastAPI and Flask connected to PostgreSQL and SQLite databases
-- **Enterprise Cloud Integrations**: Architected backend solutions on AWS (EC2, S3, Lambda) and GCP with secure IAM and CI/CD pipelines
-- **High-Throughput Financial Systems**: Architected Straight-Through Processing (STP) repair and payment workflows for tier-1 banks (SBI, Wells Fargo, Standard Chartered)
-- **API Testing & Architecture**: Rigorous contract testing and debugging using Postman and Swagger/OpenAPI
+### ⚙️ Backend & Full-Stack Engineering
+- **Asynchronous Microservices**: High-performance REST APIs using FastAPI and Node.js with strict validation and automated OpenAPI docs.
+- **Enterprise Integrations**: Automated Straight-Through Processing (STP) repair with 90%+ automation for tier-1 global banks.
+- **Cloud Infrastructure**: Scalable containerized microservices deployed across AWS (EC2, S3, Lambda) and GCP with automated CI/CD.
 
-### Mobile & Systems Engineering
-- **Enterprise iOS Applications**: 16+ years designing scalable, production-grade applications with Objective-C, Swift, and C++
-- **Cross-Platform & Native Bridges**: Designed JNI and C++ native frameworks linking mobile frontends with enterprise backends
-- **Engineering Governance**: Established automated testing, code review standards, and CI/CD workflows reducing enterprise release cycles by 20%
+### 📱 Mobile & Systems Engineering
+- **Native & Enterprise iOS**: 16+ years designing mission-critical enterprise applications in Objective-C, Swift, and C++.
+- **Cross-Platform Development**: Cross-platform platforms built with TypeScript, JavaScript, and Flutter.
+- **High-Performance Native Bridges**: Custom JNI and C++ shared libraries for low-latency engine communication.
 
 ---
 
-## 📌 Currently Learning
-- Advanced LLMOps & Agentic Orchestration with LangGraph and CrewAI
-- Distributed Systems Architecture & Kubernetes-native microservices
-- High-performance ML inference optimization (vLLM, TensorRT)
-- Advanced System Design for hyper-scale AI platforms
+## 📌 Currently Exploring & Honing
+- **Agentic AI Frameworks**: LangGraph, AutoGen, CrewAI, and Tool Calling agent architectures.
+- **Modern Full-Stack Scale**: High-performance TypeScript / Node.js backend services and distributed event queues.
+- **LLMOps**: Production evaluation, guardrails, latency reduction, and vLLM / TensorRT optimization.
+- **Distributed System Design**: Fault-tolerant event-driven microservices on Kubernetes and Cloud.
 
 ---
 
 ## 🤝 Open To
-- AI / GenAI Solutions Architect & Technical Lead roles
-- Enterprise Mobile & Distributed Systems Leadership
-- Strategic consulting on AI/LLM integration and cloud modernization
-- High-impact open-source and product engineering collaborations
+- 💼 **Agentic AI Architect / Technical Lead Roles**
+- 🏛️ **Enterprise Solutions Architecture & Systems Leadership**
+- 🤝 **High-impact AI/GenAI and Full-Stack collaborations**
+- 💡 **Strategic tech advisory on AI modernization**
 
 ---
 
@@ -132,15 +146,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachincredible9&show_icons=true&theme=tokyonight&hide_border=true" alt="Sachin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachincredible9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 🌐 **Portfolio**: [sachincredible.com](https://www.sachincredible.com)
@@ -151,6 +156,6 @@
 ---
 
 ## ⚡ Professional Tagline
-> *"Architecting high-performance enterprise systems and intelligent AI solutions — from low-level systems to modern agentic pipelines."*
+> *"Architecting high-performance enterprise systems and intelligent agentic AI solutions — from low-level systems to autonomous workflows."*
 
-⭐ *Feel free to explore my repositories, open an issue, or reach out for collaboration!*
+⭐ *Feel free to explore my repositories, open an issue, or connect!*
